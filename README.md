@@ -1,3 +1,3 @@
 # observer
 
-my RXjs Presentation from http://dresdenjs.io/
+my RXjs Presentation at http://dresdenjs.io/
